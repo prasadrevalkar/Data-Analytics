@@ -6,7 +6,7 @@ output: html_document
 ---
 #Using predictive modelling, predicting whether a particular flight will be delayed or not.
 #Collected around 2 million records from the US department of transportation. 
-#used techniques such as Logistic Regression, Naive Bayes and Random Forest Classification.
+#Used techniques such as Logistic Regression, Naive Bayes and Random Forest Classification.
 
 ```{r cars}
 
